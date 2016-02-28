@@ -15,9 +15,7 @@ Discover My App!
 ![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_JerichoL/blob/master/screen1blocks.jpg)
 
 #App
-**Intro:**
 ![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_JerichoL/blob/master/AppIntro.png?raw=true)
 
-**Screen1:**
 ![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_JerichoL/blob/master/AppScreen1.png?raw=true)
 
